@@ -1,2 +1,3 @@
-# github_practice2
-It is my github practice
+# This is readme file
+
+Here I'm going to describe what is going on in my project
